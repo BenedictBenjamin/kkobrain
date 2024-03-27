@@ -17,6 +17,6 @@
 
 ## 4. 프론트엔드/Next.js
 
-- Next.js 마이그레이션 (https://kkobrain-six.vercel.app/)
+- Next.js 마이그레이션 (https://kkobrain-ten.vercel.app/)
 
 ## 5. 네이버 등록 및 SEO 적용
